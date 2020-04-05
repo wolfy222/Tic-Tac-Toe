@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
-##Front End -
+## Front End -
 
-![](Screenshots.Screenshot1)
+![](Screenshots.Screenshot1.jpg)
 
 
 
