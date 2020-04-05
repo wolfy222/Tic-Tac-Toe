@@ -1,8 +1,9 @@
 # Tic Tac Toe Game
 ## Front End -
 
-![](Screenshots/Screenshot1.jpg =250*250)
-
+![](Screenshots/Screenshot1.jpg)
+![](Screenshots/Screenshot2.jpg)
+![](Screenshots/Screenshot3.jpg)<!-- .element height="50%" width="50%" -->
 
 
 
